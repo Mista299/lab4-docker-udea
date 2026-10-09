@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+
+LABORATORIO 4.pdf
+documento_laboratorio4.odt
+.~lock.*
+
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/.gitkeep
